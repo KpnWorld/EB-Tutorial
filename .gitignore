@@ -1,0 +1,12 @@
+
+---
+
+## 🧹 6. .gitignore
+
+To keep your repo clean:
+```text
+__pycache__/
+*.pyc
+.env
+*.db
+data/
